@@ -1,6 +1,6 @@
 #Work In Progress
 
-# Business-Data-Analysis
+# Business Data Analysis
 
 This repo is a collection of projects I have completed for my Business Data Analysis course at Menlo College.
 
