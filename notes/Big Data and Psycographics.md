@@ -21,7 +21,3 @@ Cruz Campaign
 
 ##Todays Task
 ####Scrape data using Twitter API, run sentiment analysis
-* Created twitter app
-* Installed tweepy
-* Installed textblob
-* 

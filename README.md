@@ -9,4 +9,5 @@ This repo is a collection of projects I have completed for my Business Data Anal
 * Usage of Python and Data Science Libraries
 * Twitter scraping
 * Sentiment analysis
+
 ###The projects are primarily written in Python.
