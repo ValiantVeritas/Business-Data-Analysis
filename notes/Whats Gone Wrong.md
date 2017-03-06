@@ -4,7 +4,7 @@ Feb 23, 2017
 
 ###Dependacy issues
 
-My system (Fedora 25) came with python 2.7 preinstalled but I wanted the latest version so I installed python 3.6. Because I had two versions installed, I ran into some dependancy issues. I installed scikit learn and numpy then tried to run my program an it said that those packages were not installed. However, everytime I tried to install the packages, it said they were already installed. This went on for a about 30min. I googled the issue and stackoverflow recommended uninstalling then reinstalling the packages. I tried that and then ran the program again it finally worked. 
+My system (Fedora 25) came with python 2.7 prei nstalled but I wanted the latest version so I installed python 3.6. Because I had two versions installed, I ran into some dependancy issues. I installed scikit learn and numpy then tried to run my program an it said that those packages were not installed. However, everytime I tried to install the packages, it said they were already installed. This went on for a about 30min. I googled the issue and stackoverflow recommended uninstalling then reinstalling the packages. I tried that and then ran the program again it finally worked. 
 
 #Syntax
 
